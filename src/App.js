@@ -12,13 +12,16 @@ import UseEffectComponent from './useEffectComponent';
 import FetchCompomet from './fetchComponent';
 import AxoisComponent from './axoisComponent';
 import UseRef from './useRefComponent';
+import UseMemoComponent from './useMemoComponent';
+import UseCallbackComponenet from './useCallbackComponent';
 
 
 function App() {
   return (
     <>
 
-       <UseRef />
+       
+       <UseCallbackComponenet />
        
     </>
   );
